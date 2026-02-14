@@ -1,3 +1,5 @@
+<img width="1208" height="416" alt="image" src="https://github.com/user-attachments/assets/bc351c88-e4f5-454d-9c31-536efa4c2f46" />
+
 # Questionnaire API
 
 Web API sviluppata in .NET per esporre un questionario tecnico tramite endpoint REST.
