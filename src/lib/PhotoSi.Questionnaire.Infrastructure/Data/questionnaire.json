@@ -1,12 +1,62 @@
 [
   {
-    "questionId": 1,
+    "questionId": "1",
     "question": "Quali siti o blog di settore segui regolarmente? Perchè?",
-    "answer": "..."
+    "answer": "<inserire risposta>"
   },
   {
-    "questionId": 2,
+    "questionId": "2",
     "question": "Preferisci lavorare da solo o in gruppo? Perchè?",
-    "answer": "..."
+    "answer": "<inserire risposta>"
+  },
+  {
+    "questionId": "3",
+    "question": "Quali sono gli strumenti di sviluppo che preferisci? Perché?",
+    "answer": "<inserire risposta>"
+  },
+  {
+    "questionId": "4",
+    "question": "Descrivi il tuo livello di competenza nell’utilizzo di una shell *nix",
+    "answer": "<inserire risposta>"
+  },
+  {
+    "questionId": "5",
+    "question": "Elenca i design pattern che conosci, quale preferisci e perché",
+    "answer": "<inserire risposta>"
+  },
+  {
+    "questionId": "6",
+    "question": "Qual è il tuo linguaggio di sviluppo preferito e perché?",
+    "answer": "<inserire risposta>"
+  },
+  {
+    "questionId": "7",
+    "question": "Cosa pensi potrebbe essere migliorato in tale linguaggio?",
+    "answer": "<inserire risposta>"
+  },
+  {
+    "questionId": "8",
+    "question": "C’è qualche linguaggio o tecnologia che ti risulta particolarmente ostica? Perchè?",
+    "answer": "<inserire risposta>"
+  },
+  {
+    "questionId": "9",
+    "question": "Quali skill o tecnologie ritieni interessante approfondire o hai deciso di imparare?",
+    "answer": "<inserire risposta>"
+  },
+  {
+    "questionId": "10",
+    "question": "Elenca i progetti più significativi sui quali hai attivamente lavorato. Per ognuno di essi descrivi sinteticamente il tuo ruolo e l’apporto al progetto.",
+    "answer": "<inserire risposta>"
+  },
+  {
+    "questionId": "11",
+    "question": "Ti viene richiesto di ottimizzare i tempi di esecuzione di un servizio sul quale stai lavorando. Quali sono i passi che pensi di effettuare al riguardo?",
+    "answer": "<inserire risposta>"
+  },
+  {
+    "questionId": "12",
+    "question": "Hai sviluppato qualche progetto software personale? Se sì, indicane le particolarità.",
+    "answer": "<inserire risposta>"
   }
 ]

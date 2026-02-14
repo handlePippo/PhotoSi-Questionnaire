@@ -78,7 +78,7 @@ curl http://localhost:8080/api/questionnaire/1
 Ricercare nelle domande:
 
 ```bash
-curl "http://localhost:8080/api/questionnaire/search?term=dotnet"
+curl http://localhost:8080/api/questionnaire/search?term=dotnet
 ```
 
 
