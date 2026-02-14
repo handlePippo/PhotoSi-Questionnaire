@@ -2,7 +2,7 @@
 
 # Questionnaire API
 
-Web API sviluppata in .NET per esporre un questionario tecnico tramite endpoint REST.
+QuestionnaireAPI è una Web API sviluppata in .NET, per esporre il questionario tecnico che mi avete fornito, tramite endpoint REST.
 Il progetto è strutturato con approccio DDD e Onion architecture (Domain, Application, Infrastructure, Api) e include gestione centralizzata delle eccezioni e test unitari.
 
 ---
@@ -109,7 +109,7 @@ dotnet test
 * Architettura a layer per separare le responsabilità
 * Repository JSON per semplicità e isolamento dell'infrastruttura
 * Middleware globale per la gestione delle eccezioni
-* Test unitari su service, factory e controller
+* Test unitari su repositor, service, factory e controller
 
 ---
 
@@ -120,7 +120,7 @@ Il progetto è stato sviluppato come esercizio tecnico per dimostrarvi:
 * organizzazione del codice
 * testabilità
 * gestione degli errori in una Web API .NET
-* che so rendere informale la formalit� di un questionario 😀
+* che so rendere informale la formalità di un questionario 😀
 
 ## Autore
 
