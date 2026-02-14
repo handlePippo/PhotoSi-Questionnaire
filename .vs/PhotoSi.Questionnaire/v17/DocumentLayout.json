@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi\\PhotoSi.Questionnaire\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6F9B6A-9DE7-E1BA-6737-9923EF32B490}|src\\lib\\PhotoSi.Questionnaire.Api\\PhotoSi.Questionnaire.Api.csproj|c:\\users\\filip\\onedrive\\desktop\\photosi\\photosi.questionnaire\\src\\lib\\photosi.questionnaire.api\\controllers\\questionnairecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6F9B6A-9DE7-E1BA-6737-9923EF32B490}|src\\lib\\PhotoSi.Questionnaire.Api\\PhotoSi.Questionnaire.Api.csproj|solutionrelative:src\\lib\\photosi.questionnaire.api\\controllers\\questionnairecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1CED02-4CB7-6423-F952-BC785C3FC725}|src\\lib\\PhotoSi.Questionnaire.Infrastructure\\PhotoSi.Questionnaire.Infrastructure.csproj|c:\\users\\filip\\onedrive\\desktop\\photosi\\photosi.questionnaire\\src\\lib\\photosi.questionnaire.infrastructure\\repository\\questionnairerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1CED02-4CB7-6423-F952-BC785C3FC725}|src\\lib\\PhotoSi.Questionnaire.Infrastructure\\PhotoSi.Questionnaire.Infrastructure.csproj|solutionrelative:src\\lib\\photosi.questionnaire.infrastructure\\repository\\questionnairerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6924D2-E255-5966-0BC3-72BB95F4E53E}|tests\\PhotoSi.Questionnaire.Api.Tests\\PhotoSi.Questionnaire.Api.Tests.csproj|c:\\users\\filip\\onedrive\\desktop\\photosi\\photosi.questionnaire\\tests\\photosi.questionnaire.api.tests\\controllers\\questionnairecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6924D2-E255-5966-0BC3-72BB95F4E53E}|tests\\PhotoSi.Questionnaire.Api.Tests\\PhotoSi.Questionnaire.Api.Tests.csproj|solutionrelative:tests\\photosi.questionnaire.api.tests\\controllers\\questionnairecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F776ECA-2670-4707-6159-A59CBF5033A1}|tests\\PhotoSi.Api.Questionnaire.Application.Tests\\PhotoSi.Questionnaire.Application.Tests.csproj|c:\\users\\filip\\onedrive\\desktop\\photosi\\photosi.questionnaire\\tests\\photosi.api.questionnaire.application.tests\\factory\\questionnaireitemfactorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F776ECA-2670-4707-6159-A59CBF5033A1}|tests\\PhotoSi.Api.Questionnaire.Application.Tests\\PhotoSi.Questionnaire.Application.Tests.csproj|solutionrelative:tests\\photosi.api.questionnaire.application.tests\\factory\\questionnaireitemfactorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F776ECA-2670-4707-6159-A59CBF5033A1}|tests\\PhotoSi.Api.Questionnaire.Application.Tests\\PhotoSi.Questionnaire.Application.Tests.csproj|c:\\users\\filip\\onedrive\\desktop\\photosi\\photosi.questionnaire\\tests\\photosi.api.questionnaire.application.tests\\service\\questionnaireservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F776ECA-2670-4707-6159-A59CBF5033A1}|tests\\PhotoSi.Api.Questionnaire.Application.Tests\\PhotoSi.Questionnaire.Application.Tests.csproj|solutionrelative:tests\\photosi.api.questionnaire.application.tests\\service\\questionnaireservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuestionnaireController.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi\\PhotoSi.Questionnaire\\src\\lib\\PhotoSi.Questionnaire.Api\\Controllers\\QuestionnaireController.cs",
+              "RelativeDocumentMoniker": "src\\lib\\PhotoSi.Questionnaire.Api\\Controllers\\QuestionnaireController.cs",
+              "ToolTip": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi\\PhotoSi.Questionnaire\\src\\lib\\PhotoSi.Questionnaire.Api\\Controllers\\QuestionnaireController.cs",
+              "RelativeToolTip": "src\\lib\\PhotoSi.Questionnaire.Api\\Controllers\\QuestionnaireController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T15:39:20.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestionnaireRepository.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi\\PhotoSi.Questionnaire\\src\\lib\\PhotoSi.Questionnaire.Infrastructure\\Repository\\QuestionnaireRepository.cs",
+              "RelativeDocumentMoniker": "src\\lib\\PhotoSi.Questionnaire.Infrastructure\\Repository\\QuestionnaireRepository.cs",
+              "ToolTip": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi\\PhotoSi.Questionnaire\\src\\lib\\PhotoSi.Questionnaire.Infrastructure\\Repository\\QuestionnaireRepository.cs",
+              "RelativeToolTip": "src\\lib\\PhotoSi.Questionnaire.Infrastructure\\Repository\\QuestionnaireRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T15:39:07.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuestionnaireControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi\\PhotoSi.Questionnaire\\tests\\PhotoSi.Questionnaire.Api.Tests\\Controllers\\QuestionnaireControllerTests.cs",
+              "RelativeDocumentMoniker": "tests\\PhotoSi.Questionnaire.Api.Tests\\Controllers\\QuestionnaireControllerTests.cs",
+              "ToolTip": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi\\PhotoSi.Questionnaire\\tests\\PhotoSi.Questionnaire.Api.Tests\\Controllers\\QuestionnaireControllerTests.cs",
+              "RelativeToolTip": "tests\\PhotoSi.Questionnaire.Api.Tests\\Controllers\\QuestionnaireControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T15:38:28.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuestionnaireItemFactoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi\\PhotoSi.Questionnaire\\tests\\PhotoSi.Api.Questionnaire.Application.Tests\\Factory\\QuestionnaireItemFactoryTests.cs",
+              "RelativeDocumentMoniker": "tests\\PhotoSi.Api.Questionnaire.Application.Tests\\Factory\\QuestionnaireItemFactoryTests.cs",
+              "ToolTip": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi\\PhotoSi.Questionnaire\\tests\\PhotoSi.Api.Questionnaire.Application.Tests\\Factory\\QuestionnaireItemFactoryTests.cs",
+              "RelativeToolTip": "tests\\PhotoSi.Api.Questionnaire.Application.Tests\\Factory\\QuestionnaireItemFactoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T15:38:09.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuestionnaireServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi\\PhotoSi.Questionnaire\\tests\\PhotoSi.Api.Questionnaire.Application.Tests\\Service\\QuestionnaireServiceTests.cs",
+              "RelativeDocumentMoniker": "tests\\PhotoSi.Api.Questionnaire.Application.Tests\\Service\\QuestionnaireServiceTests.cs",
+              "ToolTip": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi\\PhotoSi.Questionnaire\\tests\\PhotoSi.Api.Questionnaire.Application.Tests\\Service\\QuestionnaireServiceTests.cs",
+              "RelativeToolTip": "tests\\PhotoSi.Api.Questionnaire.Application.Tests\\Service\\QuestionnaireServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T15:38:05.732Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

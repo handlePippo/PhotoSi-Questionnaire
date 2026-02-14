@@ -1,0 +1,91 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{CF7A24E1-6D52-4701-861D-4192318F1543}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{584944A8-12C2-4DDB-A414-C591E9B52009}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoSi.Questionnaire.Application.Tests", "tests\PhotoSi.Api.Questionnaire.Application.Tests\PhotoSi.Questionnaire.Application.Tests.csproj", "{2F776ECA-2670-4707-6159-A59CBF5033A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoSi.Questionnaire.Infrastructure.Tests", "tests\PhotoSi.Api.Questionnaire.Infrastructure.Tests\PhotoSi.Questionnaire.Infrastructure.Tests.csproj", "{18952856-FFC6-8467-E7C2-DAE13A298953}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoSi.Questionnaire.Tests", "tests\PhotoSi.Api.Questionnaire.Tests\PhotoSi.Questionnaire.Tests.csproj", "{C59F18B8-2F35-501B-CA5A-469407437D7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoSi.Questionnaire.Api.Tests", "tests\PhotoSi.Questionnaire.Api.Tests\PhotoSi.Questionnaire.Api.Tests.csproj", "{8B6924D2-E255-5966-0BC3-72BB95F4E53E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoSi.Questionnaire", "src\PhotoSi.Questionnaire\PhotoSi.Questionnaire.csproj", "{3EE005AC-B6CA-FCAE-F512-AED729B9DDAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoSi.Infrastructure.Application", "src\lib\PhotoSi.Infrastructure.Application\PhotoSi.Infrastructure.Application.csproj", "{C1597525-C9B0-5894-8A42-981D81D1A621}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoSi.Questionnaire.Api", "src\lib\PhotoSi.Questionnaire.Api\PhotoSi.Questionnaire.Api.csproj", "{AE6F9B6A-9DE7-E1BA-6737-9923EF32B490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoSi.Questionnaire.Domain", "src\lib\PhotoSi.Questionnaire.Domain\PhotoSi.Questionnaire.Domain.csproj", "{FE7CB960-7857-6D13-FBBB-FF817389F05F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoSi.Questionnaire.Infrastructure", "src\lib\PhotoSi.Questionnaire.Infrastructure\PhotoSi.Questionnaire.Infrastructure.csproj", "{ED1CED02-4CB7-6423-F952-BC785C3FC725}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F776ECA-2670-4707-6159-A59CBF5033A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F776ECA-2670-4707-6159-A59CBF5033A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F776ECA-2670-4707-6159-A59CBF5033A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F776ECA-2670-4707-6159-A59CBF5033A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18952856-FFC6-8467-E7C2-DAE13A298953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18952856-FFC6-8467-E7C2-DAE13A298953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18952856-FFC6-8467-E7C2-DAE13A298953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18952856-FFC6-8467-E7C2-DAE13A298953}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C59F18B8-2F35-501B-CA5A-469407437D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C59F18B8-2F35-501B-CA5A-469407437D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C59F18B8-2F35-501B-CA5A-469407437D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C59F18B8-2F35-501B-CA5A-469407437D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B6924D2-E255-5966-0BC3-72BB95F4E53E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B6924D2-E255-5966-0BC3-72BB95F4E53E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B6924D2-E255-5966-0BC3-72BB95F4E53E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B6924D2-E255-5966-0BC3-72BB95F4E53E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EE005AC-B6CA-FCAE-F512-AED729B9DDAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE005AC-B6CA-FCAE-F512-AED729B9DDAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE005AC-B6CA-FCAE-F512-AED729B9DDAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE005AC-B6CA-FCAE-F512-AED729B9DDAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1597525-C9B0-5894-8A42-981D81D1A621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1597525-C9B0-5894-8A42-981D81D1A621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1597525-C9B0-5894-8A42-981D81D1A621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1597525-C9B0-5894-8A42-981D81D1A621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE6F9B6A-9DE7-E1BA-6737-9923EF32B490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE6F9B6A-9DE7-E1BA-6737-9923EF32B490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE6F9B6A-9DE7-E1BA-6737-9923EF32B490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE6F9B6A-9DE7-E1BA-6737-9923EF32B490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE7CB960-7857-6D13-FBBB-FF817389F05F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE7CB960-7857-6D13-FBBB-FF817389F05F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE7CB960-7857-6D13-FBBB-FF817389F05F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE7CB960-7857-6D13-FBBB-FF817389F05F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED1CED02-4CB7-6423-F952-BC785C3FC725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED1CED02-4CB7-6423-F952-BC785C3FC725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED1CED02-4CB7-6423-F952-BC785C3FC725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED1CED02-4CB7-6423-F952-BC785C3FC725}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{584944A8-12C2-4DDB-A414-C591E9B52009} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{2F776ECA-2670-4707-6159-A59CBF5033A1} = {CF7A24E1-6D52-4701-861D-4192318F1543}
+		{18952856-FFC6-8467-E7C2-DAE13A298953} = {CF7A24E1-6D52-4701-861D-4192318F1543}
+		{C59F18B8-2F35-501B-CA5A-469407437D7C} = {CF7A24E1-6D52-4701-861D-4192318F1543}
+		{8B6924D2-E255-5966-0BC3-72BB95F4E53E} = {CF7A24E1-6D52-4701-861D-4192318F1543}
+		{3EE005AC-B6CA-FCAE-F512-AED729B9DDAF} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{C1597525-C9B0-5894-8A42-981D81D1A621} = {584944A8-12C2-4DDB-A414-C591E9B52009}
+		{AE6F9B6A-9DE7-E1BA-6737-9923EF32B490} = {584944A8-12C2-4DDB-A414-C591E9B52009}
+		{FE7CB960-7857-6D13-FBBB-FF817389F05F} = {584944A8-12C2-4DDB-A414-C591E9B52009}
+		{ED1CED02-4CB7-6423-F952-BC785C3FC725} = {584944A8-12C2-4DDB-A414-C591E9B52009}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0BE803E-CC88-453F-87B0-04244D3A6AB3}
+	EndGlobalSection
+EndGlobal
