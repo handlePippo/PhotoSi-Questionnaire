@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eUOP1xgs31w=",
+  "dgSpecHash": "v7VdimiYwsY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi\\PhotoSi.Questionnaire\\tests\\PhotoSi.Questionnaire.Api.Tests\\PhotoSi.Questionnaire.Api.Tests.csproj",
+  "projectFilePath": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi.Questionnaire\\tests\\PhotoSi.Questionnaire.Api.Tests\\PhotoSi.Questionnaire.Api.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\filip\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\filip\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",

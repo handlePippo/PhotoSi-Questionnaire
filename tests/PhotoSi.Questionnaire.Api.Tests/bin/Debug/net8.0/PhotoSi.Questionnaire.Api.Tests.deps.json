@@ -11,8 +11,8 @@
           "FluentAssertions": "8.8.0",
           "Microsoft.NET.Test.Sdk": "17.8.0",
           "NSubstitute": "5.3.0",
-          "PhotoSi.Infrastructure.Application": "1.0.0",
           "PhotoSi.Questionnaire.Api": "1.0.0",
+          "PhotoSi.Questionnaire.Application": "1.0.0",
           "coverlet.collector": "6.0.0",
           "xunit": "2.5.3",
           "xunit.runner.visualstudio": "2.5.3"
@@ -1446,25 +1446,25 @@
         }
       },
       "xunit.runner.visualstudio/2.5.3": {},
-      "PhotoSi.Infrastructure.Application/1.0.0": {
+      "PhotoSi.Questionnaire.Api/1.0.0": {
         "dependencies": {
-          "PhotoSi.Questionnaire.Domain": "1.0.0"
+          "Microsoft.AspNetCore.Mvc.Core": "2.3.9",
+          "Microsoft.Extensions.Logging.Abstractions": "10.0.3",
+          "PhotoSi.Questionnaire.Application": "1.0.0"
         },
         "runtime": {
-          "PhotoSi.Infrastructure.Application.dll": {
+          "PhotoSi.Questionnaire.Api.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
       },
-      "PhotoSi.Questionnaire.Api/1.0.0": {
+      "PhotoSi.Questionnaire.Application/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Mvc.Core": "2.3.9",
-          "Microsoft.Extensions.Logging.Abstractions": "10.0.3",
-          "PhotoSi.Infrastructure.Application": "1.0.0"
+          "PhotoSi.Questionnaire.Domain": "1.0.0"
         },
         "runtime": {
-          "PhotoSi.Questionnaire.Api.dll": {
+          "PhotoSi.Questionnaire.Application.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -2354,12 +2354,12 @@
       "path": "xunit.runner.visualstudio/2.5.3",
       "hashPath": "xunit.runner.visualstudio.2.5.3.nupkg.sha512"
     },
-    "PhotoSi.Infrastructure.Application/1.0.0": {
+    "PhotoSi.Questionnaire.Api/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "PhotoSi.Questionnaire.Api/1.0.0": {
+    "PhotoSi.Questionnaire.Application/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

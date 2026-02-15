@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PhotoSi.Infrastructure.Application\PhotoSi.Infrastructure.Application.csproj" />
+    <ProjectReference Include="..\PhotoSi.Infrastructure.Application\PhotoSi.Questionnaire.Application.csproj" />
     <ProjectReference Include="..\PhotoSi.Questionnaire.Domain\PhotoSi.Questionnaire.Domain.csproj" />
   </ItemGroup>
 

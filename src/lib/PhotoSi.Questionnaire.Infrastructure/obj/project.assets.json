@@ -561,17 +561,17 @@
           }
         }
       },
-      "PhotoSi.Infrastructure.Application/1.0.0": {
+      "PhotoSi.Questionnaire.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "PhotoSi.Questionnaire.Domain": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/PhotoSi.Infrastructure.Application.dll": {}
+          "bin/placeholder/PhotoSi.Questionnaire.Application.dll": {}
         },
         "runtime": {
-          "bin/placeholder/PhotoSi.Infrastructure.Application.dll": {}
+          "bin/placeholder/PhotoSi.Questionnaire.Application.dll": {}
         }
       },
       "PhotoSi.Questionnaire.Domain/1.0.0": {
@@ -1382,10 +1382,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "PhotoSi.Infrastructure.Application/1.0.0": {
+    "PhotoSi.Questionnaire.Application/1.0.0": {
       "type": "project",
-      "path": "../PhotoSi.Infrastructure.Application/PhotoSi.Infrastructure.Application.csproj",
-      "msbuildProject": "../PhotoSi.Infrastructure.Application/PhotoSi.Infrastructure.Application.csproj"
+      "path": "../PhotoSi.Infrastructure.Application/PhotoSi.Questionnaire.Application.csproj",
+      "msbuildProject": "../PhotoSi.Infrastructure.Application/PhotoSi.Questionnaire.Application.csproj"
     },
     "PhotoSi.Questionnaire.Domain/1.0.0": {
       "type": "project",
@@ -1396,7 +1396,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.AspNetCore.Hosting >= 2.3.9",
-      "PhotoSi.Infrastructure.Application >= 1.0.0",
+      "PhotoSi.Questionnaire.Application >= 1.0.0",
       "PhotoSi.Questionnaire.Domain >= 1.0.0"
     ]
   },
@@ -1407,11 +1407,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi\\PhotoSi.Questionnaire\\src\\lib\\PhotoSi.Questionnaire.Infrastructure\\PhotoSi.Questionnaire.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi.Questionnaire\\src\\lib\\PhotoSi.Questionnaire.Infrastructure\\PhotoSi.Questionnaire.Infrastructure.csproj",
       "projectName": "PhotoSi.Questionnaire.Infrastructure",
-      "projectPath": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi\\PhotoSi.Questionnaire\\src\\lib\\PhotoSi.Questionnaire.Infrastructure\\PhotoSi.Questionnaire.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi.Questionnaire\\src\\lib\\PhotoSi.Questionnaire.Infrastructure\\PhotoSi.Questionnaire.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi\\PhotoSi.Questionnaire\\src\\lib\\PhotoSi.Questionnaire.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi.Questionnaire\\src\\lib\\PhotoSi.Questionnaire.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1433,11 +1433,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi\\PhotoSi.Questionnaire\\src\\lib\\PhotoSi.Infrastructure.Application\\PhotoSi.Infrastructure.Application.csproj": {
-              "projectPath": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi\\PhotoSi.Questionnaire\\src\\lib\\PhotoSi.Infrastructure.Application\\PhotoSi.Infrastructure.Application.csproj"
+            "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi.Questionnaire\\src\\lib\\PhotoSi.Infrastructure.Application\\PhotoSi.Questionnaire.Application.csproj": {
+              "projectPath": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi.Questionnaire\\src\\lib\\PhotoSi.Infrastructure.Application\\PhotoSi.Questionnaire.Application.csproj"
             },
-            "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi\\PhotoSi.Questionnaire\\src\\lib\\PhotoSi.Questionnaire.Domain\\PhotoSi.Questionnaire.Domain.csproj": {
-              "projectPath": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi\\PhotoSi.Questionnaire\\src\\lib\\PhotoSi.Questionnaire.Domain\\PhotoSi.Questionnaire.Domain.csproj"
+            "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi.Questionnaire\\src\\lib\\PhotoSi.Questionnaire.Domain\\PhotoSi.Questionnaire.Domain.csproj": {
+              "projectPath": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi.Questionnaire\\src\\lib\\PhotoSi.Questionnaire.Domain\\PhotoSi.Questionnaire.Domain.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J8L+T3CVuFk=",
+  "dgSpecHash": "eU5Hd5oT318=",
   "success": true,
-  "projectFilePath": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi\\PhotoSi.Questionnaire\\src\\lib\\PhotoSi.Questionnaire.Infrastructure\\PhotoSi.Questionnaire.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi.Questionnaire\\src\\lib\\PhotoSi.Questionnaire.Infrastructure\\PhotoSi.Questionnaire.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\filip\\.nuget\\packages\\microsoft.aspnetcore.hosting\\2.3.9\\microsoft.aspnetcore.hosting.2.3.9.nupkg.sha512",
     "C:\\Users\\filip\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.3.0\\microsoft.aspnetcore.hosting.abstractions.2.3.0.nupkg.sha512",

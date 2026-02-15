@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoSi.Questionnaire.Api.T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoSi.Questionnaire", "src\PhotoSi.Questionnaire\PhotoSi.Questionnaire.csproj", "{3EE005AC-B6CA-FCAE-F512-AED729B9DDAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoSi.Infrastructure.Application", "src\lib\PhotoSi.Infrastructure.Application\PhotoSi.Infrastructure.Application.csproj", "{C1597525-C9B0-5894-8A42-981D81D1A621}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoSi.Questionnaire.Application", "src\lib\PhotoSi.Infrastructure.Application\PhotoSi.Questionnaire.Application.csproj", "{C1597525-C9B0-5894-8A42-981D81D1A621}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoSi.Questionnaire.Api", "src\lib\PhotoSi.Questionnaire.Api\PhotoSi.Questionnaire.Api.csproj", "{AE6F9B6A-9DE7-E1BA-6737-9923EF32B490}"
 EndProject

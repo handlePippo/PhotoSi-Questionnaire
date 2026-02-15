@@ -2604,26 +2604,13 @@
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
       },
-      "PhotoSi.Infrastructure.Application/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "PhotoSi.Questionnaire.Domain": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/PhotoSi.Infrastructure.Application.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/PhotoSi.Infrastructure.Application.dll": {}
-        }
-      },
       "PhotoSi.Questionnaire/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.22.1",
-          "PhotoSi.Infrastructure.Application": "1.0.0",
           "PhotoSi.Questionnaire.Api": "1.0.0",
+          "PhotoSi.Questionnaire.Application": "1.0.0",
           "PhotoSi.Questionnaire.Domain": "1.0.0",
           "PhotoSi.Questionnaire.Infrastructure": "1.0.0",
           "Swashbuckle.AspNetCore": "6.6.2"
@@ -2644,13 +2631,26 @@
         "dependencies": {
           "Microsoft.AspNetCore.Mvc.Core": "2.3.9",
           "Microsoft.Extensions.Logging.Abstractions": "10.0.3",
-          "PhotoSi.Infrastructure.Application": "1.0.0"
+          "PhotoSi.Questionnaire.Application": "1.0.0"
         },
         "compile": {
           "bin/placeholder/PhotoSi.Questionnaire.Api.dll": {}
         },
         "runtime": {
           "bin/placeholder/PhotoSi.Questionnaire.Api.dll": {}
+        }
+      },
+      "PhotoSi.Questionnaire.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "PhotoSi.Questionnaire.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PhotoSi.Questionnaire.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PhotoSi.Questionnaire.Application.dll": {}
         }
       },
       "PhotoSi.Questionnaire.Domain/1.0.0": {
@@ -2668,7 +2668,7 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "Microsoft.AspNetCore.Hosting": "2.3.9",
-          "PhotoSi.Infrastructure.Application": "1.0.0",
+          "PhotoSi.Questionnaire.Application": "1.0.0",
           "PhotoSi.Questionnaire.Domain": "1.0.0"
         },
         "compile": {
@@ -7950,11 +7950,6 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "PhotoSi.Infrastructure.Application/1.0.0": {
-      "type": "project",
-      "path": "../../src/lib/PhotoSi.Infrastructure.Application/PhotoSi.Infrastructure.Application.csproj",
-      "msbuildProject": "../../src/lib/PhotoSi.Infrastructure.Application/PhotoSi.Infrastructure.Application.csproj"
-    },
     "PhotoSi.Questionnaire/1.0.0": {
       "type": "project",
       "path": "../../src/PhotoSi.Questionnaire/PhotoSi.Questionnaire.csproj",
@@ -7964,6 +7959,11 @@
       "type": "project",
       "path": "../../src/lib/PhotoSi.Questionnaire.Api/PhotoSi.Questionnaire.Api.csproj",
       "msbuildProject": "../../src/lib/PhotoSi.Questionnaire.Api/PhotoSi.Questionnaire.Api.csproj"
+    },
+    "PhotoSi.Questionnaire.Application/1.0.0": {
+      "type": "project",
+      "path": "../../src/lib/PhotoSi.Infrastructure.Application/PhotoSi.Questionnaire.Application.csproj",
+      "msbuildProject": "../../src/lib/PhotoSi.Infrastructure.Application/PhotoSi.Questionnaire.Application.csproj"
     },
     "PhotoSi.Questionnaire.Domain/1.0.0": {
       "type": "project",
@@ -7995,11 +7995,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi\\PhotoSi.Questionnaire\\tests\\PhotoSi.Api.Questionnaire.Tests\\PhotoSi.Questionnaire.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi.Questionnaire\\tests\\PhotoSi.Api.Questionnaire.Tests\\PhotoSi.Questionnaire.Tests.csproj",
       "projectName": "PhotoSi.Questionnaire.Tests",
-      "projectPath": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi\\PhotoSi.Questionnaire\\tests\\PhotoSi.Api.Questionnaire.Tests\\PhotoSi.Questionnaire.Tests.csproj",
+      "projectPath": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi.Questionnaire\\tests\\PhotoSi.Api.Questionnaire.Tests\\PhotoSi.Questionnaire.Tests.csproj",
       "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi\\PhotoSi.Questionnaire\\tests\\PhotoSi.Api.Questionnaire.Tests\\obj\\",
+      "outputPath": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi.Questionnaire\\tests\\PhotoSi.Api.Questionnaire.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8021,8 +8021,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi\\PhotoSi.Questionnaire\\src\\PhotoSi.Questionnaire\\PhotoSi.Questionnaire.csproj": {
-              "projectPath": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi\\PhotoSi.Questionnaire\\src\\PhotoSi.Questionnaire\\PhotoSi.Questionnaire.csproj"
+            "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi.Questionnaire\\src\\PhotoSi.Questionnaire\\PhotoSi.Questionnaire.csproj": {
+              "projectPath": "C:\\Users\\filip\\OneDrive\\Desktop\\PhotoSi.Questionnaire\\src\\PhotoSi.Questionnaire\\PhotoSi.Questionnaire.csproj"
             }
           }
         }

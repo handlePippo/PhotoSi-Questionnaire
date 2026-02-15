@@ -21,7 +21,7 @@
         "StatusCode": 404
       },
       {
-        "Type": "System.Collections.Generic.IReadOnlyList\u00601[[PhotoSi.Infrastructure.Application.DTOs.QuestionItemDto, PhotoSi.Infrastructure.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IReadOnlyList\u00601[[PhotoSi.Infrastructure.Application.DTOs.QuestionItemDto, PhotoSi.Questionnaire.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "application/json"
         ],
@@ -93,7 +93,7 @@
         "StatusCode": 404
       },
       {
-        "Type": "System.Collections.Generic.IReadOnlyList\u00601[[PhotoSi.Infrastructure.Application.DTOs.QuestionItemDto, PhotoSi.Infrastructure.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IReadOnlyList\u00601[[PhotoSi.Infrastructure.Application.DTOs.QuestionItemDto, PhotoSi.Questionnaire.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "application/json"
         ],

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhotoSi.Questionnaire.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+291dc706339733feec299d4c3cd91c94d4d99dbe")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhotoSi.Questionnaire.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhotoSi.Questionnaire.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

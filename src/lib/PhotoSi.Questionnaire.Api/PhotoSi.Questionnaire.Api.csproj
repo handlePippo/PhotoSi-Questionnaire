@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PhotoSi.Infrastructure.Application\PhotoSi.Infrastructure.Application.csproj" />
+    <ProjectReference Include="..\PhotoSi.Infrastructure.Application\PhotoSi.Questionnaire.Application.csproj" />
   </ItemGroup>
 
 </Project>

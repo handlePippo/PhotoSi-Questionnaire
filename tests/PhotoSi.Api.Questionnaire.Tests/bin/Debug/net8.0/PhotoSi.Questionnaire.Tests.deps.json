@@ -1431,22 +1431,11 @@
         }
       },
       "xunit.runner.visualstudio/2.5.3": {},
-      "PhotoSi.Infrastructure.Application/1.0.0": {
-        "dependencies": {
-          "PhotoSi.Questionnaire.Domain": "1.0.0"
-        },
-        "runtime": {
-          "PhotoSi.Infrastructure.Application.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
       "PhotoSi.Questionnaire/1.0.0": {
         "dependencies": {
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.22.1",
-          "PhotoSi.Infrastructure.Application": "1.0.0",
           "PhotoSi.Questionnaire.Api": "1.0.0",
+          "PhotoSi.Questionnaire.Application": "1.0.0",
           "PhotoSi.Questionnaire.Domain": "1.0.0",
           "PhotoSi.Questionnaire.Infrastructure": "1.0.0",
           "Swashbuckle.AspNetCore": "6.6.2"
@@ -1462,10 +1451,21 @@
         "dependencies": {
           "Microsoft.AspNetCore.Mvc.Core": "2.3.9",
           "Microsoft.Extensions.Logging.Abstractions": "10.0.3",
-          "PhotoSi.Infrastructure.Application": "1.0.0"
+          "PhotoSi.Questionnaire.Application": "1.0.0"
         },
         "runtime": {
           "PhotoSi.Questionnaire.Api.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PhotoSi.Questionnaire.Application/1.0.0": {
+        "dependencies": {
+          "PhotoSi.Questionnaire.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PhotoSi.Questionnaire.Application.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -1482,7 +1482,7 @@
       "PhotoSi.Questionnaire.Infrastructure/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Hosting": "2.3.9",
-          "PhotoSi.Infrastructure.Application": "1.0.0",
+          "PhotoSi.Questionnaire.Application": "1.0.0",
           "PhotoSi.Questionnaire.Domain": "1.0.0"
         },
         "runtime": {
@@ -2473,17 +2473,17 @@
       "path": "xunit.runner.visualstudio/2.5.3",
       "hashPath": "xunit.runner.visualstudio.2.5.3.nupkg.sha512"
     },
-    "PhotoSi.Infrastructure.Application/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "PhotoSi.Questionnaire/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "PhotoSi.Questionnaire.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PhotoSi.Questionnaire.Application/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

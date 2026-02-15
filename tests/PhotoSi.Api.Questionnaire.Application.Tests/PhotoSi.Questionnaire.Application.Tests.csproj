@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\lib\PhotoSi.Infrastructure.Application\PhotoSi.Infrastructure.Application.csproj" />
+    <ProjectReference Include="..\..\src\lib\PhotoSi.Infrastructure.Application\PhotoSi.Questionnaire.Application.csproj" />
   </ItemGroup>
 
   <ItemGroup>

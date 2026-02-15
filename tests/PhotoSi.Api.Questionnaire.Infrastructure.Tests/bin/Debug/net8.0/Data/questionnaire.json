@@ -1,4 +1,62 @@
 [
-  { "questionId": "1", "question": "What is .NET?", "answer": ".NET is a platform." },
-  { "questionId": "2", "question": "What is C#?", "answer": "A programming language." }
+  {
+    "questionId": "1",
+    "question": "Quali siti o blog di settore segui regolarmente? Perché?",
+    "answer": "Seguo Microsoft Learn e la documentazione ufficiale .NET, Stack Overflow, alcuni blog tecnici e le release notes delle librerie che utilizzo, specialmente su GitHub. Mi interessa restare aggiornato soprattutto su performance, nuove API, best practice backend e clean coding."
+  },
+  {
+    "questionId": "2",
+    "question": "Preferisci lavorare da solo o in gruppo? Perché?",
+    "answer": "Preferisco lavorare in gruppo perché penso che un confronto frequente migliori le soluzioni individuate e riduca gli errori, ma sono abituato a lavorare in autonomia quando necessario. In ogni caso, cerco sempre di documentare e condividere il lavoro per rendere ciò che sviluppo comprensibile agli altri."
+  },
+  {
+    "questionId": "3",
+    "question": "Quali sono gli strumenti di sviluppo che preferisci? Perché?",
+    "answer": "Visual Studio, Git, WSL, Postman, Kibana. Li preferisco perché permettono di individuare rapidamente i problemi e di testare i vari sviluppi in modo efficiente."
+  },
+  {
+    "questionId": "4",
+    "question": "Descrivi il tuo livello di competenza nell’utilizzo di una shell *nix",
+    "answer": "Mi posizionerei a un livello intermedio: utilizzo frequentemente WSL (Ubuntu) per navigazione, gestione file, processi, script semplici e interazione con Docker e Minikube. Non sviluppo script complessi, ma riesco a lavorare in ambiente Linux senza difficoltà."
+  },
+  {
+    "questionId": "5",
+    "question": "Elenca i design pattern che conosci, quale preferisci e perché",
+    "answer": "Repository, Factory, Dependency Injection, Observer, Saga, Outbox. Preferisco il Repository perché separa chiaramente accesso ai dati e logica applicativa, rendendo il codice più testabile. Inoltre, nella mia azienda attuale utilizzo la Saga choreography per la comunicazione tra microservizi tramite Kafka; ultimamente sto approfondendo Saga orchestration e l'Outbox pattern."
+  },
+  {
+    "questionId": "6",
+    "question": "Qual è il tuo linguaggio di sviluppo preferito e perché?",
+    "answer": "C# perché offre un buon equilibrio tra produttività, performance e qualità dell’ecosistema. Apprezzo molto il supporto al testing (sia unitario che di integrazione), LINQ e la maturità del runtime. Mi sento estremamente a mio agio nell'ambiente .NET."
+  },
+  {
+    "questionId": "7",
+    "question": "Cosa pensi potrebbe essere migliorato in tale linguaggio?",
+    "answer": "Il versionamento dei pacchetti e la gestione delle dipendenze, che possono diventare complessi in progetti di grandi dimensioni."
+  },
+  {
+    "questionId": "8",
+    "question": "C’è qualche linguaggio o tecnologia che ti risulta particolarmente ostica? Perché?",
+    "answer": "Alcuni aspetti del frontend mi risultano meno naturali rispetto al backend, in particolare il CSS, per via della sua natura dichiarativa e quasi sempre poco prevedibile durante il debugging."
+  },
+  {
+    "questionId": "9",
+    "question": "Quali skill o tecnologie ritieni interessante approfondire o hai deciso di imparare?",
+    "answer": "Architetture distribuite, performance tuning, osservabilità e sistemi event-driven. Mi interessa migliorare nella progettazione di sistemi scalabili; in tal senso sto dedicando tempo alla modellazione dei flussi tramite sequence diagram nei progetti personali che porto avanti."
+  },
+  {
+    "questionId": "10",
+    "question": "Elenca i progetti più significativi sui quali hai attivamente lavorato. Per ognuno di essi descrivi sinteticamente il tuo ruolo e l’apporto al progetto.",
+    "answer": "Sicuramente il sistema di fatturazione elettronica di Aruba: un ambiente fortemente distribuito, con più di 30 microservizi sviluppati in .NET Core e Java, basati su tecnologie e componenti event-driven. Mi occupo dello sviluppo di API, logica di business, gestione dati, debugging e ottimizzazione di alcune parti critiche del flusso, contribuendo anche al miglioramento dei test e alla stabilità dei servizi."
+  },
+  {
+    "questionId": "11",
+    "question": "Ti viene richiesto di ottimizzare i tempi di esecuzione di un servizio sul quale stai lavorando. Quali sono i passi che pensi di effettuare al riguardo?",
+    "answer": "In prima battuta analizzo i log prodotti dal pod, direttamente dalla shell nel cluster Kubernetes o tramite Kibana. Una volta individuato il collo di bottiglia e il microservizio coinvolto, procedo all’ottimizzazione intervenendo sulla logica di business o sulla configurazione, verificando infine il miglioramento tramite test e misurazioni (stopwatch)."
+  },
+  {
+    "questionId": "12",
+    "question": "Hai sviluppato qualche progetto software personale? Se sì, indicane le particolarità.",
+    "answer": "Ho sviluppato alcune API e progetti personali per approfondire architetture backend, testing e containerizzazione; il tutto è disponibile e visibile sul mio profilo GitHub. Mi hanno aiutato a sperimentare soluzioni che poi ho applicato anche in contesti lavorativi. Attualmente sto sviluppando un’applicazione a microservizi per la prenotazione di taxi, in stile Uber."
+  }
 ]
