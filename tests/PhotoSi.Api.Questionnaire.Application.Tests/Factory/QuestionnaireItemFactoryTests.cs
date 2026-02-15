@@ -1,5 +1,5 @@
 ﻿using FluentAssertions;
-using PhotoSi.Infrastructure.Application.Factory;
+using PhotoSi.Questionnaire.Application.Factory;
 using PhotoSi.Questionnaire.Domain.Entities;
 using PhotoSi.Questionnaire.Domain.ValueObjects;
 

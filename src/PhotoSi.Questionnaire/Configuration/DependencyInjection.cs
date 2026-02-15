@@ -1,5 +1,5 @@
-using PhotoSi.Infrastructure.Application.Repository;
-using PhotoSi.Infrastructure.Application.Service;
+using PhotoSi.Questionnaire.Application.Repository;
+using PhotoSi.Questionnaire.Application.Service;
 using PhotoSi.Questionnaire.Configuration.Middlewares;
 using PhotoSi.Questionnaire.Infrastructure.Repository;
 

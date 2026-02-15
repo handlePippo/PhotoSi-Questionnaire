@@ -1,7 +1,7 @@
 using PhotoSi.Questionnaire.Domain.Entities;
 using PhotoSi.Questionnaire.Domain.ValueObjects;
 
-namespace PhotoSi.Infrastructure.Application.Repository
+namespace PhotoSi.Questionnaire.Application.Repository
 {
     /// <summary>
     /// Contract for QuestionnaireRepository.

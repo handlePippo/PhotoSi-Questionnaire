@@ -1,8 +1,8 @@
-using PhotoSi.Infrastructure.Application.DTOs;
-using PhotoSi.Infrastructure.Application.Factory;
-using PhotoSi.Infrastructure.Application.Repository;
+using PhotoSi.Questionnaire.Application.DTOs;
+using PhotoSi.Questionnaire.Application.Factory;
+using PhotoSi.Questionnaire.Application.Repository;
 
-namespace PhotoSi.Infrastructure.Application.Service
+namespace PhotoSi.Questionnaire.Application.Service
 {
     /// <summary>
     /// Implementation of QuestionnaireService.

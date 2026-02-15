@@ -1,8 +1,8 @@
 ﻿using AutoFixture;
 using FluentAssertions;
 using NSubstitute;
-using PhotoSi.Infrastructure.Application.Repository;
-using PhotoSi.Infrastructure.Application.Service;
+using PhotoSi.Questionnaire.Application.Repository;
+using PhotoSi.Questionnaire.Application.Service;
 using PhotoSi.Questionnaire.Domain.Entities;
 
 namespace PhotoSi.Questionnaire.Application.Tests.Service

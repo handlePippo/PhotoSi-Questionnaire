@@ -1,9 +1,9 @@
 ﻿using FluentAssertions;
 using Microsoft.AspNetCore.Mvc;
 using NSubstitute;
-using PhotoSi.Infrastructure.Application.DTOs;
-using PhotoSi.Infrastructure.Application.Service;
 using PhotoSi.Questionnaire.Api.Controllers;
+using PhotoSi.Questionnaire.Application.DTOs;
+using PhotoSi.Questionnaire.Application.Service;
 
 namespace PhotoSi.Questionnaire.Api.Tests.Controllers
 {

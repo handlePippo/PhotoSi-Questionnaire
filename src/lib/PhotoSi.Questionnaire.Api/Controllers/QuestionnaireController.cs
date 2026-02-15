@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
-using PhotoSi.Infrastructure.Application.DTOs;
-using PhotoSi.Infrastructure.Application.Service;
+using PhotoSi.Questionnaire.Application.DTOs;
+using PhotoSi.Questionnaire.Application.Service;
 using System.Net;
 
 namespace PhotoSi.Questionnaire.Api.Controllers

@@ -1,7 +1,7 @@
-using PhotoSi.Infrastructure.Application.DTOs;
+using PhotoSi.Questionnaire.Application.DTOs;
 using PhotoSi.Questionnaire.Domain.Entities;
 
-namespace PhotoSi.Infrastructure.Application.Factory
+namespace PhotoSi.Questionnaire.Application.Factory
 {
     /// <summary>
     /// Factory to generate TDto from T.

@@ -1,6 +1,6 @@
-using PhotoSi.Infrastructure.Application.DTOs;
+using PhotoSi.Questionnaire.Application.DTOs;
 
-namespace PhotoSi.Infrastructure.Application.Service
+namespace PhotoSi.Questionnaire.Application.Service
 {
     /// <summary>
     /// Contract for QuestionnaireService.

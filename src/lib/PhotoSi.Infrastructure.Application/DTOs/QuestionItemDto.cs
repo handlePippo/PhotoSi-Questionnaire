@@ -1,7 +1,7 @@
-using PhotoSi.Infrastructure.Application.Factory;
+using PhotoSi.Questionnaire.Application.Factory;
 using PhotoSi.Questionnaire.Domain.Entities;
 
-namespace PhotoSi.Infrastructure.Application.DTOs
+namespace PhotoSi.Questionnaire.Application.DTOs
 {
     /// <summary>
     /// DTO represting a QuestionItem entity.

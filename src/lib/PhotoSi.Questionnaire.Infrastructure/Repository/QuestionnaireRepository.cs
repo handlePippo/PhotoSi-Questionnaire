@@ -1,4 +1,4 @@
-using PhotoSi.Infrastructure.Application.Repository;
+using PhotoSi.Questionnaire.Application.Repository;
 using PhotoSi.Questionnaire.Domain.Entities;
 using PhotoSi.Questionnaire.Domain.ValueObjects;
 using System.Text.Json;
